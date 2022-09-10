@@ -7,7 +7,6 @@ h1{
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-
 }
 .box{
     width: 150px;
@@ -17,7 +16,7 @@ h1{
     border-radius: 10px;
     transition: 0.5s;
     border: 2px solid darkkhaki;
-    box-shadow: 10px 5px 5px lightgreen
+    box-shadow: 10px 5px 5px lightgreen   
 }
 .box:hover{
     background-color: turquoise;
